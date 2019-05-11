@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# Project settings
+.idea
+.project
+.pydevproject
+.ropeproject
+.spyderproject
+.spyproject
+
+# Data
+/data/
